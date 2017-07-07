@@ -22,5 +22,5 @@ git clone https://github.com/mmalecki/multicat.git
 
 cd ~/apps/multicat/trunk
 pwd
-sudo make
-sudo make install
+make
+make install
